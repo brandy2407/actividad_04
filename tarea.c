@@ -60,6 +60,9 @@
  			case '3':
  				capturar_personaje();
  			break;
+ 			case'4':
+ 				mostrar_personajes();
+ 			break;
  		
 		 } 
  	
